@@ -99,10 +99,7 @@
 //! 3628800
 //! ```
 
-extern crate clean_macro_docs;
-use clean_macro_docs::clean_docs;
 
-#[clean_docs]
 #[macro_export]
 macro_rules! c {
     // Preprocess the loop body expression.

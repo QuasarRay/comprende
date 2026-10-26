@@ -8,4 +8,3 @@ repository = "https://github.com/BenjyWiener/comprende"
 license = "MIT"
 
 [dependencies]
-clean-macro-docs = "1.0"
